@@ -109,7 +109,9 @@ export default function Home() {
           <p>This work is only for studying with an OpenAI API key.</p>
           <p>
             This project is based on version 1.0.0 of the{" "}
-            <a href="">Conventional Commits </a>
+            <a href="https://www.conventionalcommits.org/en/v1.0.0/">
+              Conventional Commits{" "}
+            </a>
             specification.
           </p>
           <p>
