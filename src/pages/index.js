@@ -61,8 +61,8 @@ export default function Home() {
 
         <pre className="code-container">
           <code>
-            &lt;type&gt;[optional scope]: &lt;description&gt; [optional body]
-            [optional footer(s)]
+            `` &lt;type&gt;[optional scope]: &lt;description&gt; [optional body]
+            [optional footer(s)]``
           </code>
         </pre>
 
@@ -109,15 +109,15 @@ export default function Home() {
           <p>This work is only for studying with an OpenAI API key.</p>
           <p>
             This project is based on version 1.0.0 of the{" "}
-            <a>Conventional Commits </a>
+            <a href="">Conventional Commits </a>
             specification.
           </p>
           <p>
             Keep in mind that various projects and teams may adopt different
             conventions on formatting and incorporating ticket IDs into commit
-            messages, so it's important to verify with your team or project
-            manager that you're adhering to the appropriate conventions for your
-            particular project.
+            messages, so it is important to verify with your team or project
+            manager that you are adhering to the appropriate conventions for
+            your particular project.
           </p>
         </div>
       </main>
